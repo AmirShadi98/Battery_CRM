@@ -1,0 +1,15 @@
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\bin\Debug\net7.0\Battery_CRM.Core.Domain.deps.json
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\bin\Debug\net7.0\Battery_CRM.Core.Domain.dll
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\bin\Debug\net7.0\Battery_CRM.Core.Domain.pdb
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\bin\Debug\net7.0\Battery_CRM.Framework.dll
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\bin\Debug\net7.0\Battery_CRM.Framework.pdb
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.AssemblyInfo.cs
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.csproj.CopyComplete
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.dll
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\refint\Battery_CRM.Core.Domain.dll
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\Battery_CRM.Core.Domain.pdb
+C:\Users\Amir\Desktop\Projects\Battery_CRM\01.Core\Battery_CRM.Core.Domain\obj\Debug\net7.0\ref\Battery_CRM.Core.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bzTMQrhnM1s2AWEJtGREPq5Z50lnd1I/it2o2A9NVtA=",
+  "Source": "Battery_CRM.Endpoints.Api",
+  "BasePath": "_content/Battery_CRM.Endpoints.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

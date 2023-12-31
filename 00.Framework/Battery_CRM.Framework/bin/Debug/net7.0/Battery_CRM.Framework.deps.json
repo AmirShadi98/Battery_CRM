@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Battery_CRM.Framework/1.0.0": {
+        "runtime": {
+          "Battery_CRM.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battery_CRM.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
